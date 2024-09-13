@@ -1,5 +1,5 @@
 # Snake Game
-# Play.  https://marcodovalle.github.io/marcoSnakGamel.github.io/
+## Play.  https://marcodovalle.github.io/marcoSnakGamel.github.io/
 
 Este é um simples jogo da cobrinha desenvolvido com **JavaScript**, **HTML** e **CSS**. O objetivo do jogo é controlar uma cobra que se move pelo tabuleiro e come os alimentos para crescer, enquanto evita colidir consigo mesma ou com as bordas.
 
