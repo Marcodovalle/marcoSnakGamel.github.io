@@ -5,7 +5,6 @@ Este é um simples jogo da cobrinha desenvolvido com **JavaScript**, **HTML** e 
 
 ## 🐍 Demonstração
 
-Aqui você pode adicionar um gif ou screenshot do jogo.
 
 ## 🚀 Tecnologias Utilizadas
 
