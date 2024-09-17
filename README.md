@@ -7,9 +7,9 @@ Este é um simples jogo da cobrinha desenvolvido com **JavaScript**, **HTML** e 
 
 ## 🚀 Tecnologias Utilizadas
 
-- **HTML5**: Estrutura básica do jogo.
-- **CSS3**: Estilos e layout do jogo.
-- **JavaScript (ES6)**: Lógica e funcionamento do jogo.
+- **HTML**: Estrutura básica do jogo.
+- **CSS**: Estilos e layout do jogo.
+- **JavaScript**: Lógica e funcionamento do jogo.
 
 ## 🎮 Como Jogar
 
